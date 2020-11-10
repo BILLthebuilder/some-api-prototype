@@ -1,2 +1,2 @@
-# unkwown-api-prototype
-A Prototype of an unkwown project
+# some-api-prototype
+A Prototype of an upcoming project...
